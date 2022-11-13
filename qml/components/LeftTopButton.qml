@@ -7,7 +7,7 @@ Item {
     height: 47
 
     // CUSTOM PROPERTIES
-    property  color bgColor: "#27113b"
+    property color bgColor: "#27113b"
     property color bgColorEntered: "#1e0e2f"
     property bool activeMenu: false
     property string textMenu: "Descansos - Modern GUI"

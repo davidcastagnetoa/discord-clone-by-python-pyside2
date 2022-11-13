@@ -20,14 +20,14 @@ ToolTip{
     //Set Background
     background: Rectangle{
         id:bg
-        color: "#160d21"
+        color: "#18191c"
         radius: 10
 
         Rectangle{
             width: 8
             height: 8
             rotation: 45
-            color: "#160d21"
+            color: "#18191c"
             anchors.verticalCenter: parent.verticalCenter
             anchors.left: parent.left
             anchors.leftMargin: -4

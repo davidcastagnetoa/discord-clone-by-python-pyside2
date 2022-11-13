@@ -119,7 +119,6 @@ Window {
                             mainWindow.showMinimized()
                             internal.restoreMargins()
                         }
-
                     }
                     TopBarButton{
                         id: btn_Maximize_Restore
@@ -135,7 +134,7 @@ Window {
                     TopBarButton{
                         id: btn_Close
                         height: 30
-                        colorMouseOver: "#ff0000"
+                        colorMouseOver: "#f04747"
                         colorMouseDown: "#8b1b1b"
                         btnIcon: "../images/svg_icons/close_icon.svg"
                         onClicked: {
@@ -319,7 +318,7 @@ Window {
                             anchors.topMargin: 0
                             anchors.bottomMargin: 0
                             anchors.rightMargin: 0
-                            color: "#27113b"
+                            color: "#27133b"
                             width: parent
                             height: parent
                             radius: 8
@@ -333,8 +332,8 @@ Window {
 
                             LeftTopButton{
                                 id: leftPopupMenu
-                                bgColor: "#301748"
-                                bgColorEntered: "#341952"
+                                bgColor: "#27133b"
+                                bgColorEntered: "#381b59"
                                 MouseArea{
                                     anchors.fill: parent
                                     anchors.bottomMargin: 0
@@ -417,7 +416,7 @@ Window {
             id: topTittleMenus
             width: 220
             height: 370
-            color: "#160d21"
+            color: "#110a1a"
             radius: 5
             anchors.left: left_menu_col.right
             anchors.top: top_bar_title_and_channel.bottom
@@ -434,7 +433,7 @@ Window {
     }
 
     DropShadow{
-        anchors.fill:bgApp
+        anchors.fill: bgApp
         horizontalOffset: 0
         verticalOffset: 0
         radius: 10
@@ -455,3 +454,9 @@ Window {
 
 
 
+
+/*##^##
+Designer {
+    D{i:0}D{i:33;invisible:true}
+}
+##^##*/
