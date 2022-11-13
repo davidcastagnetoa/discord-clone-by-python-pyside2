@@ -1,0 +1,3 @@
+{
+    "files": ["qml/components/LeftMenuTooptip.qml","components/pages/homePage.qml","main.py","qml/dsa.qml","main.qml","qml/components/LeftMenu.qml","qml/components/LeftTopButton.qml"]
+}
