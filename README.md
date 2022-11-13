@@ -1,9 +1,11 @@
 # Discord clone - Wanderson Tutorial
 
 <p align="center">
-  This is a software for desktop for personal using developed in python using QT, qml components and Pyside2 and based in this repo <a href="https://github.com/Wanderson-Magalhaes/Login_With_PySide6_And_VSCode">Wanderson's Respository</a>, this is his tutorial <a href="https://www.youtube.com/watch?v=Jn0PpzB14Y8&ab_channel=Wanderson/" target="_blank">Wanderson</a> and built with <a href="https://www.qt.io/" target="_blank">Qt Quick</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Codespaces</a> 
+  This is a software for desktop for personal using developed in python using QT, qml components and Pyside2 and based in this repo <a href="https://github.com/Wanderson-Magalhaes/Login_With_PySide6_And_VSCode">Wanderson's Respository</a>, this is his tutorial <a href="https://www.youtube.com/watch?v=Jn0PpzB14Y8&ab_channel=Wanderson/" target="_blank">Wanderson</a> and built with <a href="https://www.qt.io/" target="_blank">Qt Quick</a>
 </p>
+<p align="center">
 Yes, you can fork this repo. It's use a Python 3.6.8. Please give proper credit by linking back to [Wanderson](https://www.youtube.com/c/WandersonIsMe). Please visit his channel and give him all the credits for his great job!
+</p>
 
 ## 🛠 Installation & Set Up
 
